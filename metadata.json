@@ -1,0 +1,6 @@
+{
+  "name": "BLINDS — Diwali Edition",
+  "description": "Multiplayer strategic deduction and bluffing card game with Diwali characters, secret partners, powers, and tactical questioning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
